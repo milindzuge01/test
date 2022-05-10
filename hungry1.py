@@ -4,7 +4,10 @@ if hungry == 'yes':
 elif hungry == 's':
     print('eat fruits')
 else:
-    print('do your homework okk')
+    thirsty = input("Are you thirsty: ")
+    if thirsty == 'yes':
+        print('drink water')
+
 print('-'*20)
 print("Happy Programming")
 print('-'*20)
