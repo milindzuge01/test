@@ -5,5 +5,3 @@ elif hungry == 's':
     print('eat fruits')
 else:
     print('do your homework okk')
-    
-    
